@@ -3,7 +3,6 @@
 **Élève ingénieure en Génie Informatique** à l'Institut International de Technologie (Sfax, Tunisie).
 Je conçois des **systèmes intelligents** à la frontière de l'**intelligence artificielle**, de la **vision par ordinateur** et de l'**IoT / systèmes embarqués**.
 
-🔎 **À la recherche d'un stage d'été (2027)** en développement logiciel, IA ou IoT.
 
 📫 [aroussarra46@gmail.com](mailto:aroussarra46@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sarra-arous-b60923310) · [Portfolio](https://sarrA46.github.io/mon-portfolio)
 
