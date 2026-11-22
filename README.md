@@ -9,16 +9,7 @@ Je conçois des **systèmes intelligents** à la frontière de l'**intelligence 
 
 ---
 
-## 🚀 Projets phares
 
-| Projet | Description | Technologies |
-|---|---|---|
-| [**SEPAM Intelligent Fault Detection**](https://github.com/sarrA46/SEPAM-Intelligent-Fault-Detection) | Détection de défauts sur relais Schneider Sepam : classification CNN des écrans d'alerte et extraction des mesures électriques par OCR. Projet de fin d'études réalisé au Groupe Chimique de Sfax. | Python, CNN, OCR, OpenCV, Raspberry Pi |
-| [**Driver Drowsiness Detection**](https://github.com/sarrA46/driver-drowsiness-detection) | Détection en temps réel de la somnolence du conducteur par suivi de la fermeture des yeux, avec alerte déclenchée via Arduino. | Python, OpenCV, Dlib, Arduino |
-| [**Azure AI Sentiment Analysis**](https://github.com/sarrA46/azure-ai-sentiment-analysis) | Plateforme NLP multilingue (français, anglais, arabe) : analyse de sentiment, opinion mining, reconnaissance d'entités nommées et classification de texte. | Python, Azure AI Language |
-| **Site e-commerce dynamique** | Application web complète de vente en ligne avec gestion des produits et base de données relationnelle. | PHP, MySQL, HTML, CSS |
-
----
 
 ## 🛠️ Compétences
 
@@ -49,15 +40,6 @@ Je conçois des **systèmes intelligents** à la frontière de l'**intelligence 
 
 ---
 
-## 🎓 Parcours
-
-- **2026 – aujourd'hui** : 1ère année du cycle ingénieur, Génie Informatique, Institut International de Technologie
-- **2022 – 2025** : Licence en Ingénierie des Systèmes Informatiques (embarqué & IoT), ISIMG Gabès
-- **2025** : Stage PFE, Groupe Chimique de Sfax, système intelligent de supervision des relais Sepam
-- **2024** : Stage, Groupe Chimique de Sfax, modèles prédictifs pour la maintenance préventive
-- **2026** : Certification Cisco CCNA 1
-
----
 
 ---
 
