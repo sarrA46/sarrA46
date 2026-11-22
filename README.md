@@ -1,3 +1,4 @@
+<p align="center"> <img src="assets/banner-pro.svg" alt="Sarra Arous, élève ingénieure en Génie Informatique" width="100%"> </p>
 # Bonjour, je suis Sarra Arous 👋
 
 **Élève ingénieure en Génie Informatique** à l'Institut International de Technologie (Sfax, Tunisie).
